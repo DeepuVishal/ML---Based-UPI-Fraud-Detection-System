@@ -1,0 +1,9 @@
+Amount,UPI_App,Bank,Payment_Method,Hour,Is_Night,Is_Weekend,Attempt_Count,is_suspicious
+500,GPay,SBI,QR Scan,14,False,False,1,False
+55000,PhonePe,HDFC,Mobile Number,2,True,True,1,True
+150,Paytm,ICICI,UPI ID,11,False,False,12,True
+2000,GPay,Axis,QR Scan,19,False,False,2,False
+60000,Paytm,SBI,UPI ID,3,True,False,1,True
+100,PhonePe,HDFC,Mobile Number,15,False,False,1,False
+5000,GPay,SBI,QR Scan,22,True,True,3,False
+300,Paytm,ICICI,UPI ID,1,True,True,15,True
